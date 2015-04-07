@@ -191,14 +191,14 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "SoulsBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
             startupEmoji: false, // true or false
             cmdDeletion: true,
-            maximumAfk: 120,
+            maximumAfk: 180,
             afkRemoval: true,
             maximumDc: 60,
             bouncerPlus: true,
@@ -270,7 +270,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: null,
+            rulesLink: "https://docs.google.com/document/d/1ovToWwQgUVkbYGmc2U8jjOs3M_Z4PMUEc-KUMjhW74Q/edit?usp=sharing",
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
